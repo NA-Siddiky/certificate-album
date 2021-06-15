@@ -14,8 +14,8 @@ import ielts from "../../../images/Certificate/IELTS_Certificate-1.jpg"
 
 const CertificateAlbum = () => {
     return (
-        <div className="flex justify-center p-3">
-        <HTMLFlipBook width={600} height={750}>
+        <div className="flex justify-center p-3 ">
+        <HTMLFlipBook width={500} height={550}>
             <div className="bg-blue-400 shadow-md">
                 <h2>Welcome to my Certificate Album</h2>
             </div>
